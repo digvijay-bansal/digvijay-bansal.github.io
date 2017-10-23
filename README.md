@@ -1,2 +1,2 @@
-# digvijay-bansal.github.io
-personal-website
+# anirudhk686.github.io
+personal website
