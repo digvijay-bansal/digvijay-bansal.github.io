@@ -6,7 +6,7 @@ author_profile: true
 redirect_from: 
 ---
 ***
-I am a 3rd-year undergraduate student, pursuing a five year dual degree programme of Bachelors in Computer Science and Masters in Economics at Birla Institute of Technology and Science, Pilani.
+I am a 3rd-year undergraduate student, majoring in Electrical and Electronics from Birla Institute of Technology and Science, Pilani.
 
 Since childhood, Nature has always been my deep source of fascination and inspiration. Thoughts and conjectures on the birth of universe and beginning of intelligence have always amazed me. I wondered about how babies who knew only to _cry_ go on to think and comprehend things like _relativity_. I have been since then passionate to _decipher_ nature's most ingenious creation _" the brain"_. 
 
