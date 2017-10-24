@@ -6,12 +6,12 @@ author_profile: true
 fullwidth: true
 redirect_from: 
 ---
-## Facial recognition system using convolutional neural network <br>(_July 2017_)
-`python` `open-cv` `keras` `VGG-16 Net` `MatConvNet`<br>
-* This project was part of my internship at [National Centre for Antarctic and Ocean Research](http://www.ncaor.gov.in/) , India. 
-* I have used the VGG-16 Net architecture and this has been implemented using keras library in python.
-* Implementation done based on the approach suggested in this [paper](http://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf).
-* Detailed note of methodology followed is presented in the [**_Project blog_**](https://anirudhk686.github.io/facial_recognition/).<br>[[_Source code_]](https://github.com/anirudhk686/facial_recognition)
+## Analysis of Electronic Equipments used in Maintenance of Power Generators’ <br>(_July 2017_)
+<br>
+* This project was part of my internship at [Adani Power Training and Reseach Institute](http://www.aptri.org/) , India. 
+* I  330 MW Power Generation Unit, Analyzed existing operation data for minimizing maintenance loses and increasing efficiency.
+* I performed on-field maintenance operations during overhauling and testing of 330MW power generator.
+* Detailed report of analysis is presented in the [**_Project blog_**](https://anirudhk686.github.io/facial_recognition/).<br>[[_Source code_]](https://github.com/digvijay-bansal/Maintainence-and-Overhauling-of-Generators-)
 
 ## Antarctic weather data analysis using ARIMA model <br>(_June 2017_)
 `python` `Jupyter-notebook` `statsmodel` `matplotlib`<br>
