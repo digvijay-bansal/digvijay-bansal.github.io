@@ -33,8 +33,8 @@ redirect_from:
 
 ## Gender Detection using Digital Signal Processing<br>(_Aug 2017_)
 `Verilog` `Cadence Virtuoso` `ModelSim` `Microwind`<br>
-* This project was a part of my Academic Curricullum, BITS EEE-434 Digital Signal Processing.
-* After the recording of voice implemented the FFT(Fast Fourier Transform) algorithm on the signal received to determine the fundamental frequency.
+* This project was a part of my Academic Curriculum, BITS EEE-434 Digital Signal Processing.
+* Implemented the FFT(Fast Fourier Transform) algorithm on the recorded voice signal to determine the fundamental frequency.
 * Observed the effect of noise on the fundamental frequency when white Gaussian noise is added to the recorded signal at a suitably low and high value of SNRs.<br>
 * Review paper of project is presented in this [**_Project report_**](https://github.com/digvijay-bansal/Gender-Detection).
 
