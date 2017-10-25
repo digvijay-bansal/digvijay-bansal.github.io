@@ -8,27 +8,34 @@ redirect_from:
 ---
 ## Analysis of Electronic Equipments used in Maintenance of Power Generators’ <br>(_July 2017_)
 <br>
-* This project was part of my internship at [Adani Power Training and Reseach Institute](http://www.aptri.org/) , India. 
-* I  330 MW Power Generation Unit, Analyzed existing operation data for minimizing maintenance loses and increasing efficiency.
-* I performed on-field maintenance operations during overhauling and testing of 330MW power generator.
-* Detailed report of analysis is presented in the [**_Project blog_**](https://anirudhk686.github.io/facial_recognition/).<br>[[_Source code_]](https://github.com/digvijay-bansal/Maintainence-and-Overhauling-of-Generators-)
+* This project was part of my Summer Internship at [Adani Power Training and Reseach Institute](http://www.aptri.org/), Gujarat, India. 
+* At Adani Power, I worked in Maintaenance and Testting Division under the Guidance of Mr. Ajit Kumar.
+* I gained an extensive hands-on experience in Industrial Standard Testing process and methodologies followed during overhauling of power generation units.
+* I worked on exploring pssibilties to reduce losses during the maintainence of Power Generators by analyzing operation data of several years.
+* Detailed report of analysis is presented in the [**_Project Report_**]().<br>[[_Source code_]](https://github.com/digvijay-bansal/Maintainence-and-Overhauling-of-Generators-)
 
-## Antarctic weather data analysis using ARIMA model <br>(_June 2017_)
-`python` `Jupyter-notebook` `statsmodel` `matplotlib`<br>
-* This project was also part of my internship at [National Centre for Antarctic and Ocean Research](http://www.ncaor.gov.in/) , India.
-* After priliminary analysis, modeled temperature data with the Seasonal ARIMA model. Forecast was also done based on the obtained model.
-* Wind speed analysis was done. Here main objective was to find out the monthly blizzard distribution.
-* Detailed note of methodology followed is described in this [**_Project report_**](https://github.com/anirudhk686/weather_data_analysis/blob/master/Final_report.pdf).<br>
-[[_Source code_]](https://github.com/anirudhk686/weather_data_analysis)
+## Simulation of Electrolytes and FDSOI ISFETs on Conventional TCAD Simulators <br>(_Aug 2017_)
+`Silvaco` `Sentaurus` `MATLAB`<br>
+* Currently, working under the guidance of Dr. Soumendu Sinha(http://www.ceeri.res.in/profiles/soumendu-sinha//), CSIR-CEERI Pilani and (http://universe.bits-pilani.ac.in/Pilani/vkc/profile)Prof. Dr. VK Chaubey, BITS Pilani.
+* Working on developing techniques for modelling of electrolytes used in ISFETs as semiconductors to obtain I-V Characteristics.
+* Performing Permittivity Variation Analysis at the sensing layer, Semiconductor-Electrolyte Interface of ISFETS.
+* Analyzing the Back Gate Effects on FDSOI ISFETs as various device parameters are varied, i.e box-length, channel-length etc.
+* Detailed note of methodology followed is described in this [**_Project report_**](https://github.com/digvijay-bansal/Simulation-of-FDSOI-ISFETS).
 
-## Stock market simulation - _A trading simulator_ <br>(_Dec 2016 - Feb 2017_)
-`python` `django` `ajax`<br>
-* This project was made for an event in APOGEE,our technical fest. More than 300 participants from all over the country participated in this event.
-* This project was used as trading platform in an event which was simulation of the stock market.Participants could register and trade with their mobile.
-* Server was hosted on college LAN.The event had four rounds and stock prices would change as per the trading in previous round.
-* Videos were shown in between the rounds which simulated an event that would influence the market.<br>
-[[_Source code_]](https://github.com/anirudhk686/SMS_2017)
+## Analog and Digital VLSI Circuit Design<br>(_Aug 2017_)
+`Verilog` `Cadence Virtuoso` `ModelSim` `Microwind`<br>
+* This project was a part of my Academic Curricullum - BITS EEE-313 Analog and Digital VLSI Design.
+* Design of an 8:1 multiplexer using Transmission Gate logic style in Cadence Virtuoso, optimizing power and delay parameters.
+* Implementation of the non-restoring algorithm for dividing a six-bit number by three-bit number in VHDL.
+* Design of CMOS Operational Amplifier for given parameters i.e. bandwidth, gain and phase margin.<br>
+* Detailed report of project is presented in this [**_Project report_**](https://github.com/digvijay-bansal/ADVD-Project/blob/master/ADVD%20Digital%20Assignment.pdf).
 
+## Gender Detection using Digital Signal Processing<br>(_Aug 2017_)
+`Verilog` `Cadence Virtuoso` `ModelSim` `Microwind`<br>
+* This project was a part of my Academic Curricullum - BITS EEE-434 Digital Signal Processing.
+* After recording of voice, implemented the FFT(Fast Fourier Transform) algorithm on signal received to determine the fundamental frequency.
+* Observed the effect of noise on the fundamental frequency when white Gaussian noise is added to the recorded signal at a suitably low and high value of SNRs.<br>
+* Review paper of project is presented in this [**_Project report_**](https://github.com/digvijay-bansal/Gender-Detection).
 
 
 
