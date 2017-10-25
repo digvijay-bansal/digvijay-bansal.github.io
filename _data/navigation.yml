@@ -7,10 +7,9 @@ main:
     url: /Projects/  
     
   - title: "Resume"
-    url: /files/Anirudh_resume.pdf
+    url: /files/digvijayCV.pdf
     
-  - title: "Blog Posts"
-    url: /Blog Posts/
+
     
   - title: "Contact"
     url: /Contact/
