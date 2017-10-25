@@ -6,7 +6,7 @@ author_profile: true
 fullwidth: true
 redirect_from: 
 ---
-## Maintainece and Overhauling of Power Generation Units <br>(_May 2017 - July 2017_)
+## Maintenance and Overhauling of Power Generation Units <br>(_May 2017 - July 2017_)
 <br>
 * This project was part of my Summer Internship at [Adani Power Training and Reseach Institute](http://www.aptri.org/), Gujarat, India. 
 * At Adani Power, I worked in Maintenance and Testing Division under the Guidance of Mr. Ajit Kumar.
