@@ -29,7 +29,7 @@ Guide: [**Dr. Soumendu Sinha, CSIR-CEERI Pilani**](https://www.ceeri.res.in/prof
 + Power and delay optimized, Design of an 8:1 multiplexer using Transmission Gate logic style in Cadence Virtuoso.
 + Implementation of the non-restoring algorithm for dividing a six-bit number by three-bit number in VHDL.
 + Design of CMOS Operational Amplifier for given parameters i.e. bandwidth, gain and phase margin.<br>
-<br>[**_Project report_**](https://github.com/digvijay-bansal/ADVD-Project/blob/master/ADVD%20Digital%20Assignment.pdf).
+[**_Project report_**](https://github.com/digvijay-bansal/ADVD-Project/blob/master/ADVD%20Digital%20Assignment.pdf).
 
 ## Gender Detection using Digital Signal Processing<br>(_Aug 2017_)
 `Verilog` `Cadence Virtuoso` `ModelSim` `Microwind`<br>
