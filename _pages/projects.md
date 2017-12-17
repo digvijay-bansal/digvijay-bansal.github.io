@@ -6,8 +6,8 @@ author_profile: true
 fullwidth: true
 redirect_from: 
 ---
-## Simulation of Electrolytes and FDSOI ISFETs on Conventional TCAD Simulators <br>(_Aug 2017_)
-`Silvaco` `Sentaurus` `MATLAB`<br>
+## Simulation of Electrolytes and FDSOI ISFETs on Conventional TCAD Simulators<br>(_Aug 2017_)
+`Silvaco` `Sentaurus` `MATLAB`<br><br>
 Guide: [**Dr. Soumendu Sinha, CSIR-CEERI Pilani**](https://www.ceeri.res.in/profiles/soumendu-sinha) and [**Prof. Dr. VK Chaubey, BITS Pilani**](http://universe.bits-pilani.ac.in/Pilani/vkc/profile).
 + Developing techniques for modelling of electrolytes used in ISFETs as semiconductors to obtain I-V Characteristics.
 + Performing Permittivity Variation Analysis at the sensing layer, i.e. Semiconductor-Electrolyte Interface of ISFETs.
@@ -15,7 +15,7 @@ Guide: [**Dr. Soumendu Sinha, CSIR-CEERI Pilani**](https://www.ceeri.res.in/prof
 [**_Project report_**](https://github.com/digvijay-bansal/Simulation-of-FDSOI-ISFETS).
 
 ## Design, Analysis and Implementation of Neuromorphic Signals<br>(_Jan 2018_)
-`SPECTRE` `SPICE` `MATLAB`<br>
+`SPECTRE` `SPICE` `MATLAB`<br><br>
 Guide: [**Prof. Dr. Anu Gupta, BITS Pilani**](http://universe.bits-pilani.ac.in/Pilani/anug/Profile).
 + Developing techniques for modelling of electrolytes used in ISFETs as semiconductors to obtain I-V Characteristics.<br>
 [**_Project report_**](https://github.com/digvijay-bansal/neuromorphic_signal/tree/master).
