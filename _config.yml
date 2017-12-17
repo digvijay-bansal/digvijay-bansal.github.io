@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "bansaldigvijay"
+title                    : "Digvijay Bansal"
 title_separator          : "-"
 name                     : &name "Digvijay Bansal"
 description              : &description "profile"
@@ -81,7 +81,7 @@ author:
   name             : "Digvijay Bansal"
   avatar           : "p2.jpg"
   bio              : "A curious geek, aspiring to decipher the brain"
-  location         : "BITS Pilani,India"
+  location         : "BITS Pilani, India"
   employer         :
   googlescholar    : 
   email            : "digvijaybitsp@gmail.com"
