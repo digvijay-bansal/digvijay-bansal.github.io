@@ -28,7 +28,7 @@ Guide: [**Prof. Dr. Anu Gupta, BITS Pilani**](http://universe.bits-pilani.ac.in/
 + Design of three-stage CMOS Operational Amplifier for given parameters i.e. unity gain bandwidth, gain, phase margin and slew rate.<br>
 [**_Project report_**](https://github.com/digvijay-bansal/ADVD-Project/blob/master/ADVD%20Digital%20Assignment.pdf).
 
-## Gender Detection using Digital Signal Processing<br>(_Aug 2017_)
+## Gender Identification using Digital Signal Processing<br>(_Aug 2017_)
 `MATLAB`<br>
 + This project was a part of my Academic Curriculum, BITS EEE-434 Digital Signal Processing.
 + Implemented the FFT(Fast Fourier Transform) algorithm on the recorded voice signal to determine the fundamental frequency.
