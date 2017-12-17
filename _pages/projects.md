@@ -14,7 +14,7 @@ Guide: [**Dr. Soumendu Sinha, CSIR-CEERI Pilani**](https://www.ceeri.res.in/prof
 + Analyzing the Back Gate Effects on FDSOI ISFETs as various device parameters are varied, i.e box-length, channel-length etc.<br>
 [**_Project report_**](https://github.com/digvijay-bansal/Simulation-of-FDSOI-ISFETS).
 
-## 'Design, Analysis and Implementation of Neuromorphic Signals<br>(_Jan 2018_)
+## Design, Analysis and Implementation of Neuromorphic Signals<br>(_Jan 2018_)
 `SPECTRE` `SPICE` `MATLAB`<br>
 Guide: [**Prof. Dr. Anu Gupta, BITS Pilani**](http://universe.bits-pilani.ac.in/Pilani/anug/Profile).
 + Developing techniques for modelling of electrolytes used in ISFETs as semiconductors to obtain I-V Characteristics.<br>
