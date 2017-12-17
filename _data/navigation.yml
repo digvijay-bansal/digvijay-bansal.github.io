@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: #
     
-    - title: "Experience"
+  - title: "Experience"
     url: /experience/ 
     
   - title: "Projects"
@@ -11,8 +11,6 @@ main:
     
   - title: "Resume"
     url: /files/digvijayCV.pdf
-    
-
-    
+       
   - title: "Contact"
     url: /Contact/
